@@ -1,0 +1,91 @@
+#chatwrap {
+	background: url(https://nifnat.com/Public/cytube%20emotes/wBDKXtTCYGk-00-03-36.png) no-repeat; center left; background-size:
+}
+
+#messagebuffer {
+	background: linear-gradient(270deg, #151414, transparent);
+}
+.nick-highlight {
+    background-color: transparent;
+}
+
+.nick-hover {
+    background-color: transparent;
+}
+
+.glyphicon-time{
+    color: white;
+}
+
+
+.qbtn-tmp .queue_temp{
+    color: #7a1f1f;
+}
+/*from here
+.qbtn-tmp{
+    color: #7a1f1f;
+}
+
+.qe_title{
+    color: transparent;
+}
+
+.glyphicon-plus, .glyphicon-minus{
+    position: initial;
+}
+
+.queue_entry, #videowrap-header{
+    background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow_animation 6s ease-in-out infinite;
+    background-size: 400% 100%;
+}
+
+@keyframes rainbow_animation {
+    0%,100% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 100% 0;
+    }
+}
+
+.queue_active{
+    -webkit-background-clip: inherit;
+    color: white !important;
+    background-color: #70787d !important;
+    background-image: -webkit-linear-gradient(#8a9196, #7a8288 60%, #70787d) !important;
+    background-image: linear-gradient(#8a9196, #7a8288, #70787d) !important;
+    background-repeat: no-repeat !important;
+}
+
+.queue_active > .qe_title{
+  color: white !important;
+}
+too here*/
+/*
+.navbar-brand{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+    font-family: monospace;
+    letter-spacing: 5px;
+}
+*/
+/*
+#messagebuffer{
+		-webkit-animation: rotation 3600s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+*/
